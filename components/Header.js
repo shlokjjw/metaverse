@@ -14,7 +14,7 @@ function Header() {
             layout="fill"
             objectFit="cover"
             className="rounded-full"
-            src="https://links.papareact.com/3pi"
+            src="/creator.jpg"
           />
         </div>
         <div className="col-span-4 text-left lg:text-center">
